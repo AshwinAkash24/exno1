@@ -22,6 +22,8 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
+### Colab Link:
+https://colab.research.google.com/drive/1NyAt4-fQSF9rTfg_UV2anMBzG6PZnj5Q?usp=sharing
 ### Cleaning process
 ```
 import pandas as pd
